@@ -1,0 +1,8 @@
+.center{
+    Text-align: center;
+}
+#error{
+    color:red;
+    font-size: 30px;
+    text-align: center;
+}
